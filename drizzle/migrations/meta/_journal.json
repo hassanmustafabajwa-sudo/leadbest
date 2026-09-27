@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789675164113,
+      "tag": "0000_create_lead_gen_os_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789896858091,
+      "tag": "0001_add_lead_enrichment_fields",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789986633796,
+      "tag": "0002_create_online_search_tables",
+      "breakpoints": true
+    }
+  ]
+}
